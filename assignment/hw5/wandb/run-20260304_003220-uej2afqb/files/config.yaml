@@ -1,0 +1,73 @@
+_wandb:
+    value:
+        cli_version: 0.25.0
+        e:
+            v8xj1llboaoep5mpawhd1tz7213c3x3o:
+                codePath: /home/chatrin/Documents/Chat/CU/Year-3/2110573-Pattern-Recognition/assignment/hw5/HW5_Precipitation_Nowcasting_PyTorch_Student_2026.ipynb
+                codePathLocal: HW5_Precipitation_Nowcasting_PyTorch_Student_2026.ipynb
+                cpu_count: 8
+                cpu_count_logical: 16
+                cudaVersion: "13.1"
+                disk:
+                    /:
+                        total: "558920417280"
+                        used: "435494572032"
+                email: chatrinza@gmail.com
+                executable: /home/chatrin/Documents/Chat/CU/Year-3/2110573-Pattern-Recognition/.venv/bin/python
+                git:
+                    commit: 941e9a1b97e82ee864cd0ae08606e45641b63116
+                    remote: git@github.com:Mysterioucz/2110573-Pattern-Recognition.git
+                gpu: NVIDIA GeForce RTX 4070 Ti
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ada
+                      cudaCores: 7680
+                      memoryTotal: "12878610432"
+                      name: NVIDIA GeForce RTX 4070 Ti
+                      uuid: GPU-528a9127-52ab-12da-b472-948541b892f4
+                host: chatrin-PC
+                memory:
+                    total: "33514315776"
+                os: Linux-6.17.0-14-generic-x86_64-with-glibc2.39
+                program: /home/chatrin/Documents/Chat/CU/Year-3/2110573-Pattern-Recognition/assignment/hw5/HW5_Precipitation_Nowcasting_PyTorch_Student_2026.ipynb
+                python: CPython 3.11.9
+                root: /home/chatrin/Documents/Chat/CU/Year-3/2110573-Pattern-Recognition/assignment/hw5
+                startedAt: "2026-03-03T17:32:20.475886Z"
+                writerId: v8xj1llboaoep5mpawhd1tz7213c3x3o
+        m: []
+        python_version: 3.11.9
+        t:
+            "1":
+                - 1
+                - 5
+                - 41
+                - 53
+            "2":
+                - 1
+                - 5
+                - 41
+                - 53
+            "3":
+                - 1
+                - 2
+                - 16
+            "4": 3.11.9
+            "5": 0.25.0
+            "8":
+                - 1
+            "12": 0.25.0
+            "13": linux-x86_64
+architecture:
+    value: feedforward
+epochs:
+    value: 10
+hidden_size:
+    value: 200
+lr:
+    value: 0.01
+scheduler_factor:
+    value: 0.2
+scheduler_min_lr:
+    value: 0.0001
+scheduler_patience:
+    value: 2

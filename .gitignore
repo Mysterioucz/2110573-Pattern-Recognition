@@ -2,3 +2,6 @@
 **/.DS_Store
 .venv
 **/.venv
+**/dataset/
+*.tar*
+**/.cache

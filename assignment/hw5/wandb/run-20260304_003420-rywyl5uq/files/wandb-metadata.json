@@ -1,0 +1,40 @@
+{
+  "os":  "Linux-6.17.0-14-generic-x86_64-with-glibc2.39",
+  "python":  "CPython 3.11.9",
+  "startedAt":  "2026-03-03T17:34:20.910662Z",
+  "program":  "/home/chatrin/Documents/Chat/CU/Year-3/2110573-Pattern-Recognition/assignment/hw5/HW5_Precipitation_Nowcasting_PyTorch_Student_2026.ipynb",
+  "codePath":  "/home/chatrin/Documents/Chat/CU/Year-3/2110573-Pattern-Recognition/assignment/hw5/HW5_Precipitation_Nowcasting_PyTorch_Student_2026.ipynb",
+  "codePathLocal":  "HW5_Precipitation_Nowcasting_PyTorch_Student_2026.ipynb",
+  "git":  {
+    "remote":  "git@github.com:Mysterioucz/2110573-Pattern-Recognition.git",
+    "commit":  "941e9a1b97e82ee864cd0ae08606e45641b63116"
+  },
+  "email":  "chatrinza@gmail.com",
+  "root":  "/home/chatrin/Documents/Chat/CU/Year-3/2110573-Pattern-Recognition/assignment/hw5",
+  "host":  "chatrin-PC",
+  "executable":  "/home/chatrin/Documents/Chat/CU/Year-3/2110573-Pattern-Recognition/.venv/bin/python",
+  "cpu_count":  8,
+  "cpu_count_logical":  16,
+  "gpu":  "NVIDIA GeForce RTX 4070 Ti",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "558920417280",
+      "used":  "435747000320"
+    }
+  },
+  "memory":  {
+    "total":  "33514315776"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 4070 Ti",
+      "memoryTotal":  "12878610432",
+      "cudaCores":  7680,
+      "architecture":  "Ada",
+      "uuid":  "GPU-528a9127-52ab-12da-b472-948541b892f4"
+    }
+  ],
+  "cudaVersion":  "13.1",
+  "writerId":  "zcqjwdxscm32n4i1ck4c7vq6jd81f9ja"
+}
