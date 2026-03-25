@@ -6,3 +6,5 @@
 *.tar*
 **/.cache
 **/wandb
+**/data
+**/facades
