@@ -8,3 +8,4 @@
 **/wandb
 **/data
 **/facades
+**/*.ckpt
